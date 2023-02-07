@@ -4,9 +4,9 @@
 
 [![a19camoan status](https://readme-stats.clckblog.space/api?username=a19camoan&show_icons=true&count_private=true&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff&bg_color=0d1117)](https://github.com/a19camoan/github-readme-stats)
 
-## Most used languajes 👩‍💻
+## Most used languages 👩‍💻
 
-[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=anuraghazra&layout=compact&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=a19camoan&layout=compact&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact 📲
 
